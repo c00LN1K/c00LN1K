@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi! My name is Nikita.
+==============================================================================================================================
 
-I'm future back-end developer)
-------------------------------
-<p></p>
+<h3>I'm future back-end developer</h3>
+
 
 * 🌐 I have been programming since 2020.
 * 💻 My first language was Pascal, after that I studied Python and C++. I also studied OOP and algorithmic programming.
 * 🛠 I made several Tg Bots (you can find an example below).
 * 🎯 My plans are to study Django, Flask, Fast API.
-* ✉️ You can contact me at [nikit0siky@yandex.ru](mailto:nikit0siky@yandex.ru).
+* ✉️ You can contact me at [nikit0siky@yandex.ru](mailto:nikit0siky@yandex.ru)
 
 ### Skills
 
@@ -22,6 +22,7 @@ I'm future back-end developer)
 
 <p align="left">
 <a href="https://www.codewars.com/users/c00LN1K" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="36" height="36" alt="CodeWars" /></a><a href="https://leetcode.com/c00LN1K/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3628297-3031905.png?f=avif&w=256" width="36" height="36" alt="LeetCode" />
+
 <!---
 c00LN1K/c00LN1K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
