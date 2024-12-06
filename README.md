@@ -1,13 +1,13 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi! My name is Nikita.
 ==============================================================================================================================
 
-<h3>I'm future back-end developer</h3>
+<h3>I'm backend developer</h3>
 
 
 * 🌐 I have been programming since 2020.
 * 💻 My first language was Pascal, after that I studied Python and C++. I also studied OOP and algorithmic programming.
-* 🛠 I made several Tg Bots (you can find an example below).
-* 🎯 My plans are to study Django, Flask, Fast API.
+* 🛠 I made several Tg Bots (you can find an example below) and Flask and Django apps.
+* 🎯 My plans are to study Fast API.
 * ✉️ You can contact me at [nikit0siky@yandex.ru](mailto:nikit0siky@yandex.ru)
 
 ### Skills
